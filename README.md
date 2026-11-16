@@ -1,4 +1,4 @@
-# Flask Review
+# Flask Review Lab: вариант B
 
 Учебное Flask-приложение для лабораторной работы 2: ветвление Git, Pull Request и проверка изменений.
 
