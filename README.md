@@ -35,3 +35,4 @@ python -m pytest -q
 - `/` — приветствие `Hello, World!`
 - `/about` — текстовое описание проекта
 - `/health` — проверка состояния, возвращает JSON `{"status":"ok"}`
+
